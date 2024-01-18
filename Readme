@@ -1,0 +1,19 @@
+Aleapp: GitHub - abrignoni/ALEAPP: Android Logs Events And Protobuf Parser
+Commands:
+python -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+$ python aleappGUI.py 
+
+
+Andriller: GitHub - den4uk/andriller: 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
+Commands:
+python -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+python -m andriller
+
+
+ileapp: GitHub - abrignoni/iLEAPP: iOS Logs, Events, And Plist Parser
+Commands:
+python -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+$ python ileappGUI.py 
